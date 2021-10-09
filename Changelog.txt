@@ -1,0 +1,11 @@
+V0.1
+- baru dibuat dengan segala fiturnya
+
+V0.2
+- Tambahan dukungan karakter UTF-8
+
+V0.3
+- Penambahan fitur LOG agat mudah melihat dimana terjadi errornya
+
+V0.4
+- Penambahan parser csv
